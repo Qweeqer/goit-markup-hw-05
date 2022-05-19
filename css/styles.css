@@ -261,11 +261,11 @@ justify-content: center;
 background-color: var(--button-color);
 border-radius: 4px;
 }
-.feature-icon{
+/* .feature-icon{
 display: flex;
 align-items: center;
 justify-content: center;
-}
+} */
 .title {
 padding-bottom: 10px;
 font-family: 'Roboto';
