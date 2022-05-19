@@ -208,7 +208,7 @@ margin: 0 auto;
 padding-top: 106px;
 padding-bottom: 30px;
 width: 696px;
-text-align: center;
+/* text-align: center; */
 color: var(--button-color);
 font-weight: 900;
 font-size: 44px;
